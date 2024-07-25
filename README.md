@@ -1,2 +1,6 @@
 # JavaScript-withProjects
-JavaScript repo for beginners. 
+A code repo for javascript beginner.
+
+---
+
+# infosunnysingh
